@@ -1,0 +1,10 @@
+# core -- simulator, filters, profiling, streaming, figures
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+
+# learned filter (src/models.py) -- optional, currently untrained
+torch>=2.0
+
+# optional
+pytest>=7.0
