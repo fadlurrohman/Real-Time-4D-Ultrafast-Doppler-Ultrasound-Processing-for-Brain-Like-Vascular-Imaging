@@ -1,3 +1,8 @@
+"""Generate the README figures.
+
+    python scripts/make_figures.py
+"""
+
 from __future__ import annotations
 
 import sys
